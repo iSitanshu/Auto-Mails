@@ -1,0 +1,13 @@
+Hello [Sir/Ma'am],
+
+I hope this email finds you well. I am writing to express my interest in the Software Development Engineer 1 (SDE-1) position at [XYZ Company]. As a final-year B.Tech student specializing in Information Technology at KIET Group of Institutions, I am eager to leverage my skills in software development and problem-solving to contribute to your esteemed team.
+
+During my internships at Protut and Oasis Infobyte, I gained practical experience in front-end and back-end development using ReactJS, Tailwind, and Node.js, creating scalable solutions that enhanced user engagement. My academic projects, including EventHub and a Food Delivery System, further strengthened my expertise in designing responsive, feature-rich web applications.
+
+In addition to my development experience, I have demonstrated strong analytical skills by solving over 500 problems on LeetCode and earning a 3-star rating on CodeChef. My active participation in hackathons has also equipped me with the ability to collaborate effectively in dynamic, fast-paced environments.
+
+I am particularly drawn to companies's commitment to innovation and excellence and would be honored to contribute to your groundbreaking projects. I have attached my resume for your review and would welcome the opportunity to discuss how my skills and experiences align with your team's objectives.
+
+Thank you for your time and consideration.
+
+Best regards,
