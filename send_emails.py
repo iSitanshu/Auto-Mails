@@ -5,7 +5,7 @@ from email.mime.multipart import MIMEMultipart
 
 # Email credentials
 your_email = "sitanshumishra18@gmail.com"  # Replace with your email
-your_password = ""  # Replace with your email password
+your_password = "liut rgxq dzbz yrez"  # Replace with your email password
 
 # Load the email template
 with open("email_template.txt", "r") as file:

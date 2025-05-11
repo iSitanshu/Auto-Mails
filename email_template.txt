@@ -1,13 +1,19 @@
 Hello [Sir/Ma'am],
 
-I hope this email finds you well. I am writing to express my interest in the Software Development Engineer 1 (SDE-1) position at [XYZ Company]. As a final-year B.Tech student specializing in Information Technology at KIET Group of Institutions, I am eager to leverage my skills in software development and problem-solving to contribute to your esteemed team.
+I hope this message finds you well. I am writing to express my interest in the SDE-1 position at [XYZ Company]. As a final-year B.Tech student in Information Technology at KIET Group of Institutions, I am passionate about developing scalable, user-focused web applications and eager to contribute to your engineering team.
 
-During my internships at Protut and Oasis Infobyte, I gained practical experience in front-end and back-end development using ReactJS, Tailwind, and Node.js, creating scalable solutions that enhanced user engagement. My academic projects, including EventHub and a Food Delivery System, further strengthened my expertise in designing responsive, feature-rich web applications.
+During my internships at MythoQuantum Explorers and Protut, I worked extensively with ReactJS, Node.js, MongoDB, Express.js, and FastAPI, building real-world applications such as a full-stack data analytics platform and a mentorship/project tracking system used by over 1,000 users.
 
-In addition to my development experience, I have demonstrated strong analytical skills by solving over 500 problems on LeetCode and earning a 3-star rating on CodeChef. My active participation in hackathons has also equipped me with the ability to collaborate effectively in dynamic, fast-paced environments.
+My independent projects reflect the same drive: I developed EventHub, an event management platform used by 1,000+ users; a Food Delivery System with JWT-based auth and real-time tracking; and a Restaurant and Hall Booking System that supports live reservations and role-based access across admin, staff, and guest dashboards.
 
-I am particularly drawn to companies's commitment to innovation and excellence and would be honored to contribute to your groundbreaking projects. I have attached my resume for your review and would welcome the opportunity to discuss how my skills and experiences align with your team's objectives.
+In addition, I have solved 600+ LeetCode problems and hold a 3-star CodeChef rating, which has strengthened my algorithmic thinking and coding fluency.
 
-Thank you for your time and consideration.
+I am excited by [XYZ Company] commitment to innovation and would be thrilled to contribute to your mission. I have attached my resume and would welcome the chance to further discuss how I can add value to your team.
 
 Best regards,
+Sitanshu Mishra 
++91-9336274936
+sitanshumishra18@gmail.com
+[LinkedIn Profile: https://www.linkedin.com/in/sitanshu-mishra-18-/]
+[GitHub Profile: https://github.com/isitanshu]
+[Resume: https://drive.google.com/file/d/1dBXKdOEQ9rOp5D3JjH8jq8eMrpLY5-EM/view?usp=sharing]

@@ -1,8 +1,20 @@
 HR Name,HR Email,Company Name
-
+Sitanshu,Sitanshu.2125it1095@kiet.edu,Microsoft Uni Con
+Arti,arti.kumari@apexon.com,Apexon
+Sir/Ma'am,hr@surepass.io,Surepass Technologies
+Ruchi,ruchi.bisht@surepass.io,Surepass Technologies
+Sir/Ma'am,hr@gritty-tech.com,Gritty Tech
+Sir/Ma'am,hr1@abybaby.co.in,Krishi Vikas
+Vaishnavi,vaishnavi@cloudzappy.com,Cloud Zappy
+Nikita,nikita.bafila@logicladder.com,LogicLadder
+Tabish,tabish@uptop.in,Uptop
+Aparna,aparna_hr@nextnation.co,NextNation
+Aaradhna,aaradhna@altre.co.in,Altre Digital Private Limited
+Sir/Ma'am,hr@vumonic.com,Vumonic Datalabs
+Sir/Ma'am,hr@engineerphilosophy.com,Engineer Philosophy Web Services Pvt. Ltd.
 Sir/Ma'am,internhr@thirdwavecoffee.in,Third Wave Coffee
 Afreen,afreen.naz@emitrr.com,Emitrr
-Nisha,Nisha@electorq.com,Baaz Bikes
+Nisha,nisha@electorq.com,Baaz Bikes
 Sir/Ma'am,hr@techanicinfotech.com,Techanicinfotech
 Megha,megha.sharma@ollosoft.com,Ollosoft Technologies
 Sir/Ma'am,hrkotiboxglobaltech@gmail.com,Koti Box Global Tech
@@ -38,8 +50,7 @@ Rajni,rajni.bala@genpact.com,Genpact
 Avinash,avinash.boddu@instaresz.com,InstaResz
 Sir/Ma'am,info@growithdigital.in,Growith Digital
 Sir/Ma'am,careers@electrovese.com,Electrovese
-Sir/Ma'am,hr@codebyte.solutions  ,CodeByte Solutions
-Ashish,ashish.jha.mqe@gmail.com,Founder
+Sir/Ma'am,hr@codebyte.solutions,CodeByte Solutions
 Sir/Ma'am,hr@nuncsystems.com,NUNC Systems
 Sir/Ma'am,hr@easycommerceapps.com,IT-Geeks
 Rahul,rahuls@xiaomi.com,Xiaomi Technology
@@ -48,10 +59,10 @@ Sir/Ma'am,talent.team@citixsys.com,Citixsys
 Amit,amit.singh@htmedialabs.com,OTTplay
 Tushar,tushar.mohan@zomato.com,Zomato
 Amit,amit.bhatia1@exlservice.com,EXLService
-Anurag,Anurag3.pal@axisbank.com,Axis Bank
+Anurag,anurag3.pal@axisbank.com,Axis Bank
 Ananthu,ananthu@legup.in,LegUp
 Kartik,kartik.joshi@cariotauto.com,CarioAuto
-Sir/Ma'am,TA@pbpartners.com,Policybazaar
+Sir/Ma'am,ta@pbpartners.com,Policybazaar
 Sir/Ma'am,hr@ninjatechnolabs.com,NinjaTech
 Shreyash,shreyash.mohapatra@artech.com,Artech
 Sir/Ma'am,apply@triedge.in,Way2Agribusiness India Pvt Ltd.
@@ -61,8 +72,6 @@ Archan,archan.desai1@rangtech.com,Rang Technologies Inc
 Vedashree,vedashree.parkhi@shreemaruti.com,SMILe
 Nikita,nikita@auspicioussoft.com,Auspicious Soft Pvt Ltd
 Sir/Ma'am,recruit@auroim.com,Auroim
-,,
-Iffat,iffat.shah@decimalpointanalytics.com,Decimal Point Analytics Pvt. Ltd.
 Sir/Ma'am,careers@crossml.com,CrossML
 Sir/Ma'am,alpi.goel@greenridertech.com,Greenrider Tech
 Deepak,deepak@aereo.io,AEREO
@@ -77,7 +86,7 @@ Sir/Ma'am,hr@evidyut.com,Electromotion E-Vidyut Vehicles Pvt Ltd
 Pooja,pooja.s@seerdynamics.com,Seer Dynamics
 Mohit,mohit.kumar@ksolves.com,Odoo ERP
 Navdeep,navdeepsharma@policybazaar.com,Policybazaar
-Sir/Ma'am,TA@pbpartners.com,Policybazaar
+Sir/Ma'am,ta@pbpartners.com,Policybazaar
 Sir/Ma'am,hr@softhunters.in,Softhunters Technology Pvt Ltd
 Kashish,kashish.s@agential.co,Agency
 Harshavardhan,harshavardhan@agential.co,Agency
@@ -90,7 +99,7 @@ Shruti,shruti.phatale@martlenz.com,MartLenz Knowledge Services
 Sir/Ma'am,hr@xomic.co.in,Xomic
 Sir/Ma'am,hr@qualysec.com,QualySec
 Ashraf,ashraf@sheba.xyz,XYZ
-Harsh ,harsh@kustodian.life,Kustodian
+Harsh,harsh@kustodian.life,Kustodian
 Kanishka,singh.kanishka@bcg.com,Boston Consulting Group (BCG)
 Sir/Ma'am,hr@codebyte.solutions,CodeByte Solutions
 Akanksha,akanksha.goel@vertoz.com,Vertoz
@@ -103,7 +112,7 @@ Sneha,snehamondal@urbancompany.com,Urban Company
 Sir/Ma'am,hr@jrrsafelogic.com,jrrsafelogic
 Sir/Ma'am,hr@statsandresearch.com,Stats and Research
 Megha,meghatripathy@prohuman.in,Prohuman
-Sir/Ma'am,Hrmanager@magicpaints.in,Magic Paints
+Sir/Ma'am,hrmanager@magicpaints.in,Magic Paints
 Ajith,ajith@diraa.in,Diraa
 Kawan,kawan.shah@aloissolutions.com,ALOIS Solutions
 Akash,akash.shrivastav@aloissolutions.com,ALOIS Solutions
@@ -113,5 +122,89 @@ Sir/Ma'am,hrkotiboxglobaltech@gmail.com,Kotibox Global Technologies
 Shreya,shreya@careermantraedu.in,CareerMantraEdu
 Sir/Ma'am,careers@electrovese.com,Electrovese
 Sir/Ma'am,recruit@auroim.com,Auroim
-Anu ,anu.s@sigmoidanalytics.com,Sigmoid Analytics
-Nitin,Nitin.Kumar@jll.com,JLL
+Anu,anu.s@sigmoidanalytics.com,Sigmoid Analytics
+Nitin,nitin.kumar@jll.com,JLL
+Astha,astha.singh@razorpay.com,Razorpay
+Divya,divya.raj@cashflo.io,CashFlo
+Sir/Ma'am,hr@tripify.com,Tripify
+Sir/Ma'am,hr@bigboytoyz.com,Big Boy Toyz Ltd
+Sir/Ma'am,careers@crossml.com,CrossML
+Sir/Ma'am, quickcursormedia@gmail.com, Quick Cursor Media
+Shipla,shilpa.c@macgence.com, Macgence
+Udita, udita.saxena@qdegrees.com, QDegrees
+Sir/Ma'am, careers@easydataintegration.net, Easy Data Integration
+Sir/Ma'am, hr@priminesoftware.com, Primine Software
+Sir/Ma'am, career@growcoms.com, Growcoms
+Ankit, ankit.kumar@kishanpe.in, Farmershop Tech India Pvt Ltd
+Sir/Ma'am, jobs@netwayindia.co.in, Netway
+Roja, roja.k@prtsoftwaresolutions.com, PRT Software Solutions
+Bhavani, bhavani.j@prtsoftwaresolutions.com, PRT Software Solutions
+Sir/Ma'am, careers@crossml.com, CrossML
+Laharikat, laharikat@keylent.com, Keylent Inc.
+Sir, hari@ekcelinc.com, Ekcel Inc.
+Divya, divya.raj@cashflo.io, CashFlo
+Pallav, pallav.arora@tripify.com, Tripify
+Sir/Ma'am, hr@tripify.com, Tripify
+Sir/Ma'am, hr@bigboytoyz.com, Big Boy Toyz Ltd
+Sakshi, sakshi.sharma@paymeindia.in, Payme India
+Sir/Ma'am, hr@pregradcampus.in, Pregrad
+Devang, devang@reenav.com, Reenav Group
+Nitin, nitinj1@mindlance.com, Mindlance
+Lalitha, lalitha.d@tekwissen.in, Tekwissen
+Riya, riya.raj@progressive.in, Progressive
+Ritu, ritu.jakhar@sworks.co.in, Smartworks
+Hariom, hariom@infovices.com, Infovices Technology
+Yati, yati.sharma@taggd.in, Taggd
+Samra, samra.rahman@herovired.com, Hero Vired
+Sir/Ma'am, internhr@thirdwavecoffee.in, Third Wave Coffee
+Afreen, afreen.naz@emitrr.com, Emitrr
+Nisha, nisha@electorq.com, Baaz Bikes
+Sir/Ma'am, hr@techanicinfotech.com, Techanic Infotech
+Megha, megha.sharma@ollosoft.com, Ollosoft Technologies
+Sir/Ma'am, hrkotiboxglobaltech@gmail.com, Koti Box Global Tech
+Bhagyashree, bhagyashree@lykora.in, Lykora
+Sir/Ma'am, info@crownhillsolutions.com, Crownhill Solutions
+Sir/Ma'am, hr@fixderma.in, Fixderma India Pvt Ltd
+Kashish, kashish.s@agential.co, Agential
+Harshavardhan, harshavardhan@agential.co, Agential
+Sir/Ma'am, career@hrsolutions.in, Leading Corporate House
+Abhishek, abhishek.k@aereo.io, AEREO
+Sir/Ma'am, hr@terotam.com, Terotam
+Sir/Ma'am, hr@populardigital.ai, Popular Digital AI
+Shiwansh, admin@shiwansh.com, CC
+Sir/Ma'am, hiringteam@qapita.com, Qapita
+Tanya, tanya.intern@livingthings.ai, iCapotech Pvt Ltd
+Latika, latika.gautam@ollosoft.com, Ollosoft Technologies Pvt. Ltd.
+Sir/Ma'am, Careers@db4cloud.in, Db4Cloud Technologies
+Ashish, ashish.yadav1@timesinternet.in, Times Internet Limited
+Sir/Ma'am, hr@engineerphilosophy.com, Engineer Philosophy Web Services Pvt. Ltd.
+Sir/Ma'am, hr@techlusion.io, Techlusion
+Sir/Ma'am, qurratulain.iftekhar@redcliffelabs.com, Redcliffelabs
+Sir/Ma'am, cv@talentrisetechnorate.com, Talentrise Technorate
+Seema, seema@upperthrust.com, UpperThrust
+Sir/Ma'am, Hr@db4cloud.in, Db4Cloud Technologies
+Swati, swati.tewari@skillprobe.co, Skill Probe
+Deepika, deepikap@cloudmotivglobal.com, Cloud Motiv Global
+Karandeep, karandeep.singh@myoperator.com, MyOperator
+Subhalaxmi, subhalaxmi.m@jetsmartis.com, JetSmart IT Services
+Sir/Ma'am, hr@atzean.com, Atzean Technologies
+Sir/Ma'am, hr@medochealth.in, Medoc Health
+Sir/Ma'am, advertisingojas@gmail.com, OAJS Advertisement
+Sir/Ma'am, akumar@tslmarketing.in, TSL Consulting Pvt Ltd
+Sir/Ma'am, analyst@krystalvs.com, Krystalvs
+Mayur, mayur.mahajan@valethi.com, Valethi
+Sir/Ma'am, srrimann@primofiscal.com, DataSense
+Sir/Ma'am, hr@webwheel.co.in, Webwheel
+Sir/Ma'am, hello@mymethix.com, Methix
+Sir/Ma'am, hr@alignstrategicimperitive.com, Align Strategic Imperative
+Sir/Ma'am, hello@offmint.com, Offmint
+Sujitha, sujitha.s@karyarth.com, Karyarth
+Nitika, nitikasadele@easycommerceapps.com, EasyComm Innovations Pvt. Ltd.
+Sakshi, sakshi.sharma@suhora.com, Suhora
+Varun, Varun.harit@neo-group.in, Neo-Group
+Sir/Ma'am, hr.oytechnology@gmail.com, OyTechnology
+Priyanshu, priyansshu.anand-i@collectiveartists.com, Collective Artistics
+Sir/Ma'am, careers@nirixense.com, Nirixense Technologies
+Sir/Ma'am, dhanista@talentsocio.com, Talent Socio
+Sir/Ma'am, hiring@risingbusiness.in, Rising Business
+Sumit, sumit.newar@paytm.com, Paytm
