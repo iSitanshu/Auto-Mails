@@ -6,7 +6,7 @@ During my internships at MythoQuantum Explorers and Protut, I worked extensively
 
 My independent projects reflect the same drive: I developed EventHub, an event management platform used by 1,000+ users; a Food Delivery System with JWT-based auth and real-time tracking; and a Restaurant and Hall Booking System that supports live reservations and role-based access across admin, staff, and guest dashboards.
 
-In addition, I have solved 600+ LeetCode problems and hold a 3-star CodeChef rating, which has strengthened my algorithmic thinking and coding fluency.
+In addition, I have solved 950+ LeetCode and GFG combined problems and hold a 3-star CodeChef rating, which has strengthened my algorithmic thinking and coding fluency.
 
 I am excited by [XYZ Company] commitment to innovation and would be thrilled to contribute to your mission. I have attached my resume and would welcome the chance to further discuss how I can add value to your team.
 
