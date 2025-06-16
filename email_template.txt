@@ -2,9 +2,9 @@ Hello [Sir/Ma'am],
 
 I hope this message finds you well. I am writing to express my interest in the SDE-1 position at [XYZ Company]. As a final-year B.Tech student in Information Technology at KIET Group of Institutions, I am passionate about developing scalable, user-focused web applications and eager to contribute to your engineering team.
 
-During my internships at MythoQuantum Explorers and Protut, I worked extensively with ReactJS, Node.js, MongoDB, Express.js, and FastAPI, building real-world applications such as a full-stack data analytics platform and a mentorship/project tracking system used by over 1,000 users.
+During my internships at MythoQuantum Explorers and Protut, I worked extensively with ReactJS, Node.js, MongoDB, Express.js, and FastAPI, building real-world applications such as a scalable data analytics platform and a mentorship/project tracking system used by over 1,000 users.
 
-My independent projects reflect the same drive: I developed EventHub, an event management platform used by 1,000+ users; a Food Delivery System with JWT-based auth and real-time tracking; and a Restaurant and Hall Booking System that supports live reservations and role-based access across admin, staff, and guest dashboards.
+My independent projects reflect the same drive: I developed ChatterBox, a real-time chat application; a Food Delivery System with JWT-based auth and real-time tracking; and a Restaurant and Hall Booking System that supports live reservations and role-based access across admin, staff, and guest dashboards.
 
 In addition, I have solved 950+ LeetCode and GFG combined problems and hold a 3-star CodeChef rating, which has strengthened my algorithmic thinking and coding fluency.
 
